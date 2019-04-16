@@ -1,0 +1,5 @@
+phantoms
+python=3.7.0
+pyqt=5.9.2
+pyzmq=17.1.2
+
